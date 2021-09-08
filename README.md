@@ -3,3 +3,5 @@ git checkout -b (branch-name)
 git add Contributors.md - Add file or folder to list of items being committed
 git commit -m "Anything here, name for changes" - 
 git push origin (branch-name)
+
+INCOMPLETE
